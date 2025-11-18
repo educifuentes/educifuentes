@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Edu
 
-<!--
-**educifuentes/educifuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building data apps and teaching.
+## 🔧 Projects
+- [Project 1](link) — 1-line description
+- [Project 2](link) — 1-line description
 
-Here are some ideas to get you started:
+  ## Data Apps Live
+- Nasa Natural Eevents Monitor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Tools I use
+Python · R · SQL · JavaScript · Streamlit · Shiny · etc.
+
+## Utils I have built
+I love to read on my kindle and writign notes, here are some tools I've built:
+- kindle to markdown
+- extract-chapters-from_epub - builds a nice Table of Conetnst that its useful to write notes
+
+## 🔗 Links
+- GitHub: https://github.com/educifuentes
+- LinkedIn: https://linkedin.com/in/educardocifuentes

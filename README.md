@@ -14,7 +14,7 @@ Python · R · SQL · JavaScript · Streamlit · Shiny · etc.
 ## Utils I have built
 I love to read on my kindle and writign notes, here are some tools I've built:
 - kindle to markdown
-- extract-chapters-from_epub - builds a nice Table of Conetnst that its useful to write notes
+- [chapters-extractor](https://github.com/educifuentes/chapters-extractor) : builds a nice Table of Conetnst that its useful to write notes
 
 ## 🔗 Links
 - GitHub: https://github.com/educifuentes

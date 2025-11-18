@@ -18,4 +18,4 @@ I love to read on my kindle and writign notes, here are some tools I've built:
 - [chapters-extractor](https://github.com/educifuentes/chapters-extractor) : builds a nice Table of Conetnst that its useful to write notes
 
 ## 🔗 Links
-[LinkedIn](https://linkedin.com/in/educardocifuentes | [GitHub](https://github.com/educifuentes)
+[LinkedIn](https://linkedin.com/in/educardocifuentes) | [GitHub](https://github.com/educifuentes)

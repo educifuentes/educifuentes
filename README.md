@@ -1,5 +1,6 @@
 # Hi, I'm Edu
 
+
 Passionate about building data apps and teaching.
 ## 🔧 Projects
 - [Project 1](link) — 1-line description
@@ -17,5 +18,4 @@ I love to read on my kindle and writign notes, here are some tools I've built:
 - [chapters-extractor](https://github.com/educifuentes/chapters-extractor) : builds a nice Table of Conetnst that its useful to write notes
 
 ## 🔗 Links
-- GitHub: https://github.com/educifuentes
-- LinkedIn: https://linkedin.com/in/educardocifuentes
+[LinkedIn](https://linkedin.com/in/educardocifuentes | [GitHub](https://github.com/educifuentes)

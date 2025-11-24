@@ -13,7 +13,7 @@ Python · SQL · Power BI / Tableau / Looker · dbt · Airflow
 
 
 ## 🔧 Projects
-- Nasa Natural Eevents Monitor
+- [Nasa Natural Events Tracking](https://nasa-natural-events.streamlit.app/)
 
 ## Utils
 I love to read on my kindle and writign notes, here are some tools I've built:
